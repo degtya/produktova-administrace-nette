@@ -1,0 +1,8 @@
+/temp/*
+!/temp/.gitignore
+/log/*
+!/log/.gitignore
+/vendor/
+app/config/local.neon
+.idea/
+.vscode/
